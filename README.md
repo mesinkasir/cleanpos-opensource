@@ -1,6 +1,6 @@
 # clean pos - open source code point of sale
 Clean pos is a open source code point of sale compleks system
-![https://1.bp.blogspot.com/-AK4vokrqW6M/XfdE223qWrI/AAAAAAAAIYY/XdlvcOBJsqI42z2ualQo8jFZOKpY-u_-gCLcBGAsYHQ/s1600/2.%2Bmenu.png][(https://1.bp.blogspot.com/-AK4vokrqW6M/XfdE223qWrI/AAAAAAAAIYY/XdlvcOBJsqI42z2ualQo8jFZOKpY-u_-gCLcBGAsYHQ/s1600/2.%2Bmenu.png)
+[https://1.bp.blogspot.com/-AK4vokrqW6M/XfdE223qWrI/AAAAAAAAIYY/XdlvcOBJsqI42z2ualQo8jFZOKpY-u_-gCLcBGAsYHQ/s1600/2.%2Bmenu.png][(https://1.bp.blogspot.com/-AK4vokrqW6M/XfdE223qWrI/AAAAAAAAIYY/XdlvcOBJsqI42z2ualQo8jFZOKpY-u_-gCLcBGAsYHQ/s1600/2.%2Bmenu.png)
 free poin of sale source code aplikasi kasir gratis download.
 Open source code point of sale - wholesale and retail sales point of sale support.
 this is web based technology multi device android iphone windows in clouds  host dbased. or use offline desktop mode with localhost.<br/>
@@ -32,7 +32,5 @@ https://fb.com/mesinkasircomplete
 https://twitter.com/hockeycomp
 
 https://www.instagram.com/mesinkasircomplete
-
-Website : https://www.mesinkasir.asia
 
 Blogs : https://www.hockeycomputindo.com
